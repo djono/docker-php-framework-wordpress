@@ -18,8 +18,8 @@
 4. config/vhosts/default.conf
 5. www/(wordpress files installed)
 
-## Sekarang semua settingan dapat dilakukan dengan mudah :
-*Now all settings can be done easily :*
+## Now all settings can be done easily :
+Sekarang semua settingan dapat dilakukan dengan mudah :*
 >> .env
 
 ### Menjalankan aplikasi Wordpress
